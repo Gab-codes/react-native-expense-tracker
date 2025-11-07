@@ -1,4 +1,4 @@
-<h1 align="center">💸 Expense Tracker with React Native & Express 🚀</h1>
+<h1 align="center">💸 Expense Tracker with React Native & Express Backend 🚀</h1>
 
 ---
 
